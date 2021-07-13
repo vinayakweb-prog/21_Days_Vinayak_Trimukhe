@@ -7,3 +7,4 @@ Day 3: Decision making
 Day 4: Sorts
 Day 5: Hashing,tree
 Day 6: Graph
+Day 7: Loops,Function
