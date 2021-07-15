@@ -8,3 +8,5 @@ Day 4: Sorts
 Day 5: Hashing,tree
 Day 6: Graph
 Day 7: Loops,Function
+Day 8: Exception handling
+Day 9: File handling
