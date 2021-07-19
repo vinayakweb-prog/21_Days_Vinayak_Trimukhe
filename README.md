@@ -12,4 +12,6 @@ Day 8: Exception handling
 Day 9: File handling
 Day 10: Intro to Numpy
 Day 11: Numpy
+Day 12: Vector
+
 
