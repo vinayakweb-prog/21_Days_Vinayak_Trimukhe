@@ -13,5 +13,6 @@ Day 9: File handling
 Day 10: Intro to Numpy
 Day 11: Numpy
 Day 12: Vector
+Day 13: Intro to pandas
 
 
