@@ -15,5 +15,6 @@ Day 11: Numpy
 Day 12: Vector
 Day 13: Intro to pandas
 Day 14: Pandas
-
+Day 15: Pandas Dataframe
+Day 16: matplotlib
 
