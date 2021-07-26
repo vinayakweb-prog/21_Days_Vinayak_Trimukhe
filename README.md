@@ -18,3 +18,5 @@ Day 14: Pandas
 Day 15: Pandas Dataframe
 Day 16: matplotlib
 Day 17: matplotlib
+Day 18: Seaborn 
+Day 19: Seaborn
