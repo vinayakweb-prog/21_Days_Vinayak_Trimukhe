@@ -20,3 +20,5 @@ Day 16: matplotlib
 Day 17: matplotlib
 Day 18: Seaborn 
 Day 19: Seaborn
+Day 20: Project
+Day 21: Project
